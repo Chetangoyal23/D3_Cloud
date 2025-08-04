@@ -1,3 +1,4 @@
+Word Cloud Layout
 This is a Wordle-inspired word cloud layout written in JavaScript. It uses HTML5 canvas and sprite masks to achieve near-interactive speeds.
 
 See here for an interactive demonstration along with implementation details.
